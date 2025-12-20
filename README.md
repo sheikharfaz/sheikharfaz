@@ -104,7 +104,7 @@ Real-time:        WebSockets | SignalR | WebRTC | GStreamer
 
 ---
 
-## 📊 GitHub Stats
+[## 📊 GitHub Stats
 
 <div align="center">
   
@@ -112,7 +112,7 @@ Real-time:        WebSockets | SignalR | WebRTC | GStreamer
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sheikharfaz&layout=compact&theme=radical)
 
 </div>
-
+](url)
 ---
 
 ## 🌟 Highlights
