@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sheikharfazahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikharfazahamed)
 [![Website](https://img.shields.io/badge/Website-sheikharfaz.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sheikharfaz.com)
-[![Email](https://img.shields.io/badge/Email-sheikharfazahamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikharfaz@yahoo.in)
+[![Email](https://img.shields.io/badge/Email-sheikharfaz@yahoo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikharfaz@yahoo.in)
 
 </div>
 
