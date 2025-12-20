@@ -149,7 +149,7 @@ I'm actively looking to contribute to:
 **Available for immediate opportunities across the Middle East**
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikharfazahamed)
-[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sheikharfazahamed@gmail.com)
+[![Email](https://img.shields.io/badge/-Send_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sheikharfaz@yahoo.in)
 [![Website](https://img.shields.io/badge/-Visit_Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white)](https://sheikharfaz.com)
 [![Phone](https://img.shields.io/badge/-Call_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+971566671407)
 
