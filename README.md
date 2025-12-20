@@ -85,13 +85,7 @@ const currentStatus = {
 - Implements scroll progress indicators and smooth scroll-to-top functionality
 - Toast notifications for user interactions and form submissions
 - **Tech Stack:** React, Vite, Three.js, WebGL, React Hot Toast, ESLint
-
-### 📚 [Learn Next.js](https://github.com/sheikharfaz/learn-next-js)
-**Learning Repository for Next.js Framework**
-- Exploring Next.js features and best practices
-- Building modern web applications with server-side rendering
-- **Tech Stack:** Next.js, React, TypeScript
-
+- 
 ---
 
 ## 🛠️ Tech Stack
