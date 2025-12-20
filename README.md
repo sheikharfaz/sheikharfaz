@@ -23,7 +23,7 @@ Technical architect and senior engineer with 7+ years designing and delivering p
 const technicalProfile = {
   specialization: [
     "Distributed systems architecture",
-    "AI/ML infrastructure at scale", 
+    "AI/ML infrastructure at scale",
     "Enterprise security & authentication",
     "High-performance cloud-native applications"
   ],
@@ -130,7 +130,7 @@ Graphics:       Three.js • WebGL • Unity WebGL • GSAP animations
 
 <div align="center">
 
-**Let's Connect**
+**Connect**
 
 [LinkedIn](https://linkedin.com/in/sheikharfazahamed) • [Portfolio](https://sheikharfaz.com) • [GitHub](https://github.com/sheikharfaz)
 
