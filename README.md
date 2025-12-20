@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sheikharfazahamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikharfazahamed)
 [![Website](https://img.shields.io/badge/Website-sheikharfaz.com-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sheikharfaz.com)
-[![Email](https://img.shields.io/badge/Email-sheikharfazahamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikharfazahamed@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sheikharfazahamed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikharfaz@yahoo.in)
 
 </div>
 
@@ -25,6 +25,32 @@ Senior Software Engineer with **7+ years** of experience building enterprise-gra
 
 ---
 
+## 🌍 Current Focus
+
+```typescript
+const currentStatus = {
+  location: "Dubai, UAE 🇦🇪",
+  role: "Senior Software Engineer @ RTA Dubai",
+  learning: ["Advanced RAG Techniques", "Kubernetes Orchestration", "Business Analytics"],
+  workingOn: [
+    "AI-powered chatbots with RAG",
+    "Enterprise security systems", 
+    "Real-time video streaming pipelines",
+    "Open-source contributions"
+  ],
+  openTo: ["Collaborations", "Interviews", "Freelance Projects", "Mentorship"],
+  visaStatus: "UAE Resident - Immediate availability",
+  willingToRelocate: ["Middle East", "Remote opportunities"],
+  skills: {
+    expertise: ["Full Stack Development", "AI/ML Integration", "Cloud Architecture"],
+    certifications: ["Python Core & Advanced", "ASP.NET Core MVC", "RESTful WCF"],
+    languages: ["English", "Hindi", "Arabic (Reading)", "Kannada", "Urdu"]
+  }
+};
+```
+
+---
+
 ## 💼 Featured Projects
 
 ### 🤖 [Secure RAG Chatbot Platform](https://github.com/sheikharfaz/chatbot)
@@ -37,7 +63,7 @@ Senior Software Engineer with **7+ years** of experience building enterprise-gra
 
 ### 🔐 [Central Authentication System](https://github.com/sheikharfaz/central-auth)
 **Enterprise Security Platform for RTA Dubai**
-- Architected centralized authentication system for RTA Dubai's SMD Department
+- Architected centralized authentication system for RTA Dubai
 - Implemented OAuth 2.0 and JWT-based security for government applications
 - Built ASP.NET Core backend with secure session management and encryption
 - Serves multiple corporate clients across UAE with enterprise-grade security
@@ -120,32 +146,6 @@ I'm actively looking to contribute to:
 - 🎤 Available for **tech talks and mentorship**
 - 📧 Reach out: **sheikharfazahamed@gmail.com**
 - 🚗 **Valid UAE Driving License** & Residence Visa
-
----
-
-## 🌍 Current Focus
-
-```typescript
-const currentStatus = {
-  location: "Dubai, UAE 🇦🇪",
-  role: "Senior Software Engineer @ RTA Dubai",
-  learning: ["Advanced RAG Techniques", "Kubernetes Orchestration", "Business Analytics"],
-  workingOn: [
-    "AI-powered chatbots with RAG",
-    "Enterprise security systems", 
-    "Real-time video streaming pipelines",
-    "Open-source contributions"
-  ],
-  openTo: ["Collaborations", "Interviews", "Freelance Projects", "Mentorship"],
-  visaStatus: "UAE Resident - Immediate availability",
-  willingToRelocate: ["Middle East", "Remote opportunities"],
-  skills: {
-    expertise: ["Full Stack Development", "AI/ML Integration", "Cloud Architecture"],
-    certifications: ["Python Core & Advanced", "ASP.NET Core MVC", "RESTful WCF"],
-    languages: ["English", "Hindi", "Arabic (Reading)", "Kannada", "Urdu"]
-  }
-};
-```
 
 ---
 
