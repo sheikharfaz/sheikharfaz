@@ -127,7 +127,7 @@ I'm actively looking to contribute to:
 ### Let's Connect! 
 - 💼 Open for **contract/full-time opportunities** in the Middle East
 - 🎤 Available for **tech talks and mentorship**
-- 📧 Reach out: **sheikharfazahamed@gmail.com**
+- 📧 Reach out: **sheikharfaz@yahoo.in**
 - 🚗 **Valid UAE Driving License** & Residence Visa
 
 ---
