@@ -47,10 +47,9 @@ const technicalProfile = {
 **Solution:** Architected and led development of centralized OAuth 2.0/OpenID Connect platform with multi-tenant isolation, SSO integration via Azure AD, and stateless JWT authentication. Designed high-availability architecture with session replication and automated failover.
 
 **Impact:**
-- Serving 500K+ active users across 15+ government applications
-- Reduced authentication-related incidents by 78% through centralized monitoring
-- Achieved 99.97% uptime SLA in production
-- Enabled government-wide SSO, reducing IT overhead by 60%
+- Serving many users in government applications
+- Enabled government-wide SSO.
+- Handles multiple integration channels
 
 **Technical Depth:** ASP.NET Core microservices • Azure App Services • SQL Server with read replicas • Redis session store • OAuth 2.0/OIDC protocols • Azure AD integration
 
@@ -64,7 +63,7 @@ const technicalProfile = {
 **Solution:** Designed production-grade Retrieval-Augmented Generation (RAG) system using vector embeddings for semantic search. Implemented asynchronous document processing pipeline with chunking strategies optimized for technical documentation. Built streaming response interface for sub-second perceived latency.
 
 **Impact:**
-- Processing 10K+ documents with 95% relevance accuracy
+- Processing multiple documents with 95% relevance accuracy
 - Reduced document review time from hours to minutes
 - Zero data leakage through isolated vector stores per tenant
 - Streaming responses with <500ms time-to-first-token
@@ -105,14 +104,14 @@ Graphics:       Three.js • WebGL • Unity WebGL • GSAP animations
 ## Notable Achievements
 
 **Technical Leadership**
-- Architected authentication infrastructure serving 500K+ users across Dubai Government agencies
-- Led migration from Angular to React, achieving 40% performance improvement and 50% faster load times
+- Architected authentication infrastructure serving multiple users across Dubai Government agencies
+- Led migration from Angular to React, performance improvement and 50% faster load times
 - Designed and implemented AI/RAG integration into enterprise security systems
 
 **Engineering Excellence**
 - Maintained 99.97% uptime SLA for mission-critical authentication services
 - Optimized database queries reducing average response time from 800ms to 120ms
-- Reduced authentication-related production incidents by 78% through centralized monitoring
+- Reduced authentication-related production incidents through centralized monitoring
 
 **Recognition**
 - Team Player Award (SL Kirloskar Software, 2020) for exceptional technical contributions and mentorship
