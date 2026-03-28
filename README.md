@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c63ff&height=220&section=header&text=Sheikh%20Arfaz%20Ahamed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Intelligent%20Systems%20%7C%20One%20Commit%20at%20a%20Time&descSize=16&descAlignY=55&descColor=8b949e" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Senior+Software+Engineer+%7C+AI+%26+Cloud+Architect;Building+the+Future+with+RAG+%26+LLMs+%F0%9F%A4%96;Full+Stack+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Cloud" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Senior+Software+Engineer+%7C+AI+%26+Cloud+Architect;Building+the+Future+with+RAG+%26+LLMs+%F0%9F%A4%96;Full+Stack+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Cloud" alt="Typing SVG" /></a>
 
 <br/>
 
