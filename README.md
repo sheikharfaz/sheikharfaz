@@ -28,7 +28,7 @@
 I'm a **Senior Software Engineer** with **7+ years** of experience building enterprise-grade solutions for **government organizations** and **Fortune 500** companies. I live at the intersection of **AI**, **Cloud Architecture**, and **Full-Stack Development** — turning complex problems into elegant, scalable systems.
 
 ```typescript
-class SheikArfaz {
+class SheikhArfaz {
   readonly title = "Senior Software Engineer";
   readonly location = "Dubai, UAE 🇦🇪";
 
