@@ -55,7 +55,7 @@ Production-grade AI chatbot with **retrieval-augmented generation**. LangChain +
 
 ### [Central Auth System](https://github.com/sheikharfaz/central-auth)
 
-Enterprise **centralized authentication platform** serving multiple Dubai Government clients. OAuth 2.0/JWT flows, secure session management, end-to-end encryption, and role-based access control at scale.
+Enterprise **centralized authentication platform** serving multiple Dubai clients. OAuth 2.0/JWT flows, secure session management, end-to-end encryption, and role-based access control at scale.
 
 <sub>ASP.NET Core · C# · Azure · OAuth 2.0 · JWT · SQL Server</sub>
 
